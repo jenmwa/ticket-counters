@@ -1,6 +1,6 @@
 # Ticket Counter made through lessons with Scrimba
 
-## a Javascript project, my inroduction to Javascript actually.
+a Javascript project, my inroduction to Javascript actually.
 A ticket counter app where you add ticket holders by one, you're also able to save the "clicks", and the counter starts over.
 fun little project!
 
